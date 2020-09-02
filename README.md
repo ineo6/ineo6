@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hi, I'm ineo6, a web developer.
+
+- 🔭 I’m currently working on **Git Master**
+- 🌱 I’m currently learning any interesting thing
+
 <!--
 **ineo6/ineo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
